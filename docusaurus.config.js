@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ja', 'vn'],
   },
 
   presets: [
@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Hyakutem',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Hyakutem Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hyakutem, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
