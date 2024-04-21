@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[4852],{3125:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/docus/vn/blog/tags/facebook","allTagsPath":"/docus/vn/blog/tags","count":1,"unlisted":false}')}}]);
